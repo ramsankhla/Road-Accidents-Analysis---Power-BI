@@ -3,8 +3,6 @@
 ## 📊 Project Overview  
 This repository contains a **Power BI dashboard** for analyzing road accidents. It provides insights into accident patterns, causes, and severity levels, helping stakeholders understand trends and identify areas for improvement in road safety.
 
-![image](https://github.com/user-attachments/assets/18fef81b-816e-492e-854b-ff020897cc63)
-
 
 ---
 
